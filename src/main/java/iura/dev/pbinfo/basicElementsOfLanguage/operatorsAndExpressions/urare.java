@@ -1,4 +1,4 @@
-package iura.dev.pbinfo;
+package iura.dev.pbinfo.basicElementsOfLanguage.operatorsAndExpressions;
 
 public class urare {
     public static void main(String[] args) {

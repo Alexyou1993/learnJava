@@ -1,4 +1,4 @@
-package iura.dev.pbinfo;
+package iura.dev.pbinfo.basicElementsOfLanguage.operatorsAndExpressions;
 
 import java.util.Scanner;
 
